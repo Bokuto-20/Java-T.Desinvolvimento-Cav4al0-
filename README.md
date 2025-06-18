@@ -1,1 +1,1 @@
-apaenas um teste para usar o GIT.
+ a penas um teste para usar o GIT.
